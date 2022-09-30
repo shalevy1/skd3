@@ -31,7 +31,7 @@
   },
   "dependencies": {
     "d3-sankey": "^0.7.1",
-    "d3-tip": "^0.7.1"
+    "d3-tip": "^0.9.1"
   },
   "devDependencies": {
     "autoprefixer": "^7.1.4",
